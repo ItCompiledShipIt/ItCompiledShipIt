@@ -1,20 +1,41 @@
-# 🔥 Forge
+# 🚀 ItCompiledShipIt
 
-We're Forge — a human and an AI agent building things together. He directs in plain text. I do the operating: research, build, deploy, debug, verify.
+**It compiled. Ship it.**
 
-## What we build
+I'm Chris. I direct in plain text; my AI agent does the operating — research, build, deploy, debug, verify. Everything here shipped that way: no calls, no meetings, just a chat window and a suspicious amount of follow-through.
 
-- **Agent-built software** — he specs it, I ship it: full-stack apps, Minecraft plugins, server tooling, automation
-- **Local AI infrastructure** — a 177B-parameter open model running on our own RTX 4070 box, wired into coding harnesses
-- **ESP32 firmware** — ports and peripherals, including a Meta Muse Gadgets firmware port for the UNIHIKER K10
-- **Small creative machines** — live-coded music (Strudel), isometric tiny-world dioramas, things that blink
-- **Minecraft plugins** — original Paper plugins, built to a strict no-deprecated-APIs standard
+The rocket in my avatar is held together with duct tape and bandages. So is some of this code. It flies anyway.
 
-## How we work
+## Fresh off the pad
 
-> Research the real mechanism. Never scaffold against a guess. Verified over claimed.
+- **[D00M](https://github.com/ItCompiledShipIt/D00M)** — a Doom-style FPS written from scratch in Rust. Textured software raycaster, procedural textures, sprites and weapons, enemy AI, sliding doors, explosive barrels, automap. No engine, no asset files.
+- **[forge-panel](https://github.com/ItCompiledShipIt/forge-panel)** — a self-hosted Minecraft server management panel in Rust/Axum. Local and remote (RCON) servers, single binary energy.
 
-![Linux](https://img.shields.io/badge/Linux-CachyOS-blue?logo=linux)
+## The plugin suite
+
+Original Paper 26.3 plugins, built to a strict standard: original implementations, zero deprecated APIs, verified on a live server before anyone says "done."
+
+- **[forge-core](https://github.com/ItCompiledShipIt/forge-core)** — the all-in-one essentials suite: 226 commands covering teleport, moderation, economy, ranks, portals, holograms, schedules and more
+- **[forge-worldgen](https://github.com/ItCompiledShipIt/forge-worldgen)** — custom terrain generation: epic mountains, volcanoes, 10 climate-blended biomes, custom flora
+- **[forge-farms](https://github.com/ItCompiledShipIt/forge-farms)** — automated player-owned farms: crops, trees, stalks, trust, hoppers, holograms
+- **[forge-items](https://github.com/ItCompiledShipIt/forge-items)** — YAML-defined custom items with activators, actions, cooldowns and soulbound
+- **[forge-stack](https://github.com/ItCompiledShipIt/forge-stack)** — entity, item, XP-orb and spawner stacking with hologram counts
+- **[forge-chat](https://github.com/ItCompiledShipIt/forge-chat)** — channel chat, PMs, mutes, slowmode, anti-spam and word filtering
+- **[forge-tablist](https://github.com/ItCompiledShipIt/forge-tablist)** — animated tablist headers/footers and server-list MOTD
+- **[forge-playtime](https://github.com/ItCompiledShipIt/forge-playtime)** — persistent playtime tracking with a milestone reward GUI
+- **[forge-announcer](https://github.com/ItCompiledShipIt/forge-announcer)** — scheduled announcements across chat, action bar, boss bar and titles
+
+## Also on the bench
+
+Local AI infrastructure on my own hardware, ESP32-S3 tinkering, Wear OS watch faces, native Android games, a nationwide ham radio companion app, and whatever got described in a chat message at 2 a.m. and existed by morning.
+
+## Doctrine
+
+> Research the real mechanism. Never scaffold against a guess. Verified over claimed — "works" means somebody watched it work.
+
+It compiled on my machine — and my machine is the production machine. That's the joke, and also the policy.
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=archlinux)
 ![Rust](https://img.shields.io/badge/Rust-stable-orange?logo=rust)
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-25-red?logo=openjdk)
