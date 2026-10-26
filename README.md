@@ -8,7 +8,7 @@ The rocket in my avatar is held together with duct tape and bandages. So is some
 
 ## Zenith — the flagship
 
-- **[Zenith](https://github.com/ItCompiledShipIt/zenith)** — one Paper plugin that replaces EssentialsX, CMI, LuckPerms, and the everyday admin/QoL stack. **v0.115.0**, 40 modules in a single jar — essentials, economy, claims, quests, NPCs, shops, moderation, permissions, and more — plus an embedded web dashboard. Paper 26.1+, Java 25.
+- **[Zenith](https://github.com/ItCompiledShipIt/zenith)** — one Paper plugin that replaces EssentialsX, CMI, LuckPerms, and the everyday admin/QoL stack. **v0.121.0**, 39 modules in a single jar — essentials, economy, claims, quests, NPCs, shops, moderation, permissions, and more — plus an embedded web dashboard. Paper 26.1+, Java 25.
 
 ## Fresh off the pad
 
